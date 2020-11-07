@@ -1,0 +1,23 @@
+{
+  "name": "into-node-js",
+  "version": "1.0.0",
+  "description": "Módulo node js de introducción.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbareaortiz/intro-node-js.git"
+  },
+  "keywords": [
+    "introducción",
+    "nodejs"
+  ],
+  "author": "José Manuel Barea <jbareaortiz@gmail.com> (https://github.com/jbareaortiz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbareaortiz/intro-node-js/issues"
+  },
+  "homepage": "https://github.com/jbareaortiz/intro-node-js#readme"
+}
